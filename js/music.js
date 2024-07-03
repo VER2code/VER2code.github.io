@@ -1,8 +1,8 @@
 /*
 音乐信息
 
-感谢 @武恩赐 提供的 MetingAPI
-https://api.wuenci.com/meting/api/
+
+https://api-meting.imsyy.top
 
 作者: imsyy
 主页：https://www.imsyy.top/
