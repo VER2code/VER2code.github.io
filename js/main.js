@@ -418,8 +418,8 @@ let title2 = `
                                                               |____|/    \|____|                                |___|/                
 `
 let content = `
-博客:  https://blog.bywind.xyz
-Github:  https://github.com/haonan15
+邮箱:  LRDcode@oulook》com
+Github:  https://github.com/LRDcode
 `
 console.log(`%c${title1} %c${title2}
 %c${content}`, styleTitle1, styleTitle2, styleContent)
